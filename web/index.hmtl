@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Una familia de muchos hijos semejantes a Jesús</title>
+
+    <!-- Bootstrap -->
+    <link href="Styles/bootstrap.min.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <style media="screen">
+      section {border-bottom: 1px solid #333;}
+    </style>
+  </head>
+  <body>
+    <article class="container">
+      <h1>Una familia de muchos hijos semejantes a Jesús</h1>
+    	<section>
+    	  <h2>El modelo <span>Jesús</span></h2>
+        <h3>En su espiritualidad y dependencia del Padre</h3>
+        <blockquote>
+          <p>Les dijo, pues, Jesús: Cuando hayáis levantado al Hijo del Hombre, entonces conoceréis que yo soy, y que nada hago por mí mismo, sino que según me enseñó el Padre, así hablo. Porque el que me envió, conmigo está; no me ha dejado solo el Padre, porque yo hago siempre lo que le agrada.</p>
+          <cite><a href="https://www.bible.com/bible/149/jhn.8.28-29.rvr1960">Juan 8:28-29</a></cite>
+        </blockquote>
+        <blockquote>
+          <p>y descendió el Espíritu Santo sobre él en forma corporal, como paloma, y vino una voz del cielo que decía: Tú eres mi Hijo amado; en ti tengo complacencia.</p>
+          <cite><a href="https://www.bible.com/bible/149/lu.3.22.rvr1960">Lucas 3:22</a></cite>
+        </blockquote>
+        <cite><a href="#">Juan 8:28-29, Lucas 3:22</a></cite>
+        <h3>En su carácter y disposición de corazón</h3>
+        <p>Mateo 11:29</p>
+        <h3>En su obra y acción: qué hizo, cuándo, dónde, con quién</h3>
+        <p>Juan 20:21</p>
+    	</section>
+      <section>
+        <h2>La herramienta que nos fue encomendada <span>El evangelio del reino</span></h2>
+        <h3>El único que engendra discípulos</h3>
+        <p>Hechos 28:30-31; Marcos 1:14-15</p>
+      </section>
+      <section>
+        <h2>El fruto esperado <span>Discípulos</span></h2>
+        <h3>Según la definición de Jesús</h3>
+        <p>Juan 8:31-32; 13:34-35; 15:8,16; Lucas 14:26-27,33</p>
+      </section>
+      <section>
+        <h2>La estructura de funcionamiento adecuada <span>El cuerpo de Cristo</span></h2>
+        <h3>Discipulado, compañerismo, relaciones familiares</h3>
+        <p>Efesios 4:11-16</p>
+      </section>
+      <section>
+        <h2>El ámbito de trabajo <span>Por las casas y por las calles</span></h2>
+        <p>Hechos 2:41-47; 20:18-20</p>
+      </section>
+      <section>
+        <h2>El alcance de nuestra misión <span>Hasta lo último de la tierra</span></h2>
+        <p>Mateo 28:19-20; Hechos 1:8</p>
+      </section>
+    </article>
+  	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="Scripts/bootstrap.min.js"></script>
+  </body>
+</html>
